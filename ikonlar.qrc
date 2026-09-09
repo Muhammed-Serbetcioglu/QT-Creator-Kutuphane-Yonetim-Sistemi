@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ikonlar/book.jpg</file>
+        <file>ikonlar/odunc_1.jpg</file>
+        <file>ikonlar/odunc_2.jpg</file>
+        <file>ikonlar/user.jpg</file>
+    </qresource>
+</RCC>
